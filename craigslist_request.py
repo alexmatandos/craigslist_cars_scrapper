@@ -18,6 +18,7 @@ for i in range(5):
 	f.write(html)
 	f.close()
 	print(index)
+	time.sleep(30)
 
 for file in glob.glob("html_files/*.html"):
 	f = open(file, encoding = "UTF-8")
@@ -38,3 +39,4 @@ for file in glob.glob("html_files/*.html"):
 		f.write(html)
 		f.close()
 		print(link)
+		time.sleep(30)
