@@ -17,10 +17,10 @@ for file in glob.glob("car_html_files/*.html"):
 	year = vehicle[0:5]
 	name = vehicle[6: len(vehicle)]
 	
-	more_info = infos[1]
-	span = more_info.find_all("span")
-	print(span)
-	
+	more_info = infos[1].text
+	print(more_info)
+	#for category in categories:
+
 
 
 	
