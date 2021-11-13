@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
-import time
 import glob
+import re
 
 for file in glob.glob("car_html_files/*.html"):
 	f = open(file, encoding = "UTF-8")
@@ -16,10 +16,24 @@ for file in glob.glob("car_html_files/*.html"):
 	vehicle = infos[0].text
 	year = vehicle[0:5]
 	name = vehicle[6: len(vehicle)]
+	more_info = infos[1]
+	spans = more_info.find_all("span")
 	
-	more_info = infos[1].text
-	print(more_info)
-	#for category in categories:
+	for span in spans:
+		values = span.find("b")
+		if values == None:
+			value = "N/A"
+			category = "N/A"
+		else:
+			value = values.text
+			category = span.text.replace(value, "")
+		
+
+		
+
+	
+	
+	
 
 
 
