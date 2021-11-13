@@ -19,7 +19,8 @@ for file in glob.glob("car_html_files/*.html"):
 	
 	more_info = infos[1]
 	span = more_info.find_all("span")
-	print(span[1])
+	print(span)
+	
 
 
 	
