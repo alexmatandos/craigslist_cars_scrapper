@@ -22,6 +22,9 @@ for file in glob.glob("car_html_files/*.html"):
 	vehicle = infos[0].text
 	year = vehicle[0:5].replace("\n", "").replace("\r", "")
 	name = vehicle[6: len(vehicle)]
+	name_split = name.split()
+	manufacturer = name_split[0]
+	model = name.replace(manufacturer, "")
 	more_info = infos[1]
 	spans = more_info.find_all("span")
 	
@@ -37,43 +40,30 @@ for file in glob.glob("car_html_files/*.html"):
 		
 		if category == ['fuel']:
 			fuel = value
-		else:
-			pass
-
+			
 		if category == ['odometer']:
 			mileage = value
-		else:
-			pass
-
+			
 		if category == ['transmission']:
 			transmission = value
-		else:
-			pass
-		
+			
 		if category == ['title', 'status']:
 			title = value
-		else:
-			pass
-
+			
 		if category == ['condition']:
 			condition = value
-		else:
-			pass
-
+			
 		if category == ['cylinders']:
 			engine = value
-		else:
-			pass
-		
+
 	df = df.append({
 		'Year': year,
-		'Model': name,
+		'Manufacturer': manufacturer,
+		'Model': model,
 		'Price': price,
 		'Fuel': fuel,
 		'Mileage': mileage,
 		'Transmission': transmission,
-		'Condition': condition,
-		'Engine': engine,
 		'Title': title
 		}, ignore_index = True)
 	df = df.drop_duplicates()

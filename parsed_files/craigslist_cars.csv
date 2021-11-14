@@ -1,1558 +1,1558 @@
-,Year,Model,Price,Fuel,Mileage,Transmission,Title
-0,2008,"Chevrolet
+,Year,Manufacturer,Model,Price,Fuel,Mileage,Transmission,Title
+0,2008,Chevrolet,"
 
 ",23000,diesel,240000,automatic,clean
-1,2005,"chevrolet silverado 1500
+1,2005,chevrolet," silverado 1500
 
 ",7300,gas,189528,automatic,clean
-2,2008,"vw jetta
+2,2008,vw," jetta
 
 ",2000,gas,231850,manual,clean
-3,2008,"chevrolet suburban
+3,2008,chevrolet," suburban
 
 ",7500,gas,202000,manual,clean
-4,1956,"Chevrolet
+4,1956,Chevrolet,"
 
 ",8000,gas,777777,automatic,clean
-5,1977,"cj7 jeep
+5,1977,cj7," jeep
 
 ",12000,gas,104000,manual,missing
-6,1985,"toyota supra
+6,1985,toyota," supra
 
 ",4700,gas,123881,manual,clean
-7,1996,"1996 suzuki side kick
+7,1996,1996," suzuki side kick
 
 ",1800,gas,139000,manual,clean
-8,2000,"chevrolet silverado 1500
+8,2000,chevrolet," silverado 1500
 
 ",12775,gas,104000,automatic,clean
-9,2001,"chevrolet venture van
+9,2001,chevrolet," venture van
 
 ",950,gas,200000,automatic,clean
-10,2001,"Chevrolet Corvette
+10,2001,Chevrolet," Corvette
 
 ",25750,gas,21500,manual,clean
-11,2001,"Dodge Dakota
+11,2001,Dodge," Dakota
 
 ",4500,gas,152442,automatic,clean
-12,2002,"ford f250 super duty
+12,2002,ford," f250 super duty
 
 ",14000,diesel,245000,automatic,clean
-13,2002,"Porsche Boxster S
+13,2002,Porsche," Boxster S
 
 ",22500,gas,44800,manual,clean
-14,2002,"Porsche Carrera 4S
+14,2002,Porsche," Carrera 4S
 
 ",40750,gas,37625,manual,clean
-15,2002,"Nissan Xterra
+15,2002,Nissan," Xterra
 
 ",3500,gas,167877,automatic,clean
-16,2002,"nissan xterra 4x4
+16,2002,nissan," xterra 4x4
 
 ",2500,gas,167000,automatic,clean
-17,2004,"Dodge Durango
+17,2004,Dodge," Durango
 
 ",5000,gas,154000,automatic,clean
-18,2004,"ford f450 super duty crew
+18,2004,ford," f450 super duty crew
 
 ",16999,diesel,232000,automatic,rebuilt
-19,2004,"Porsche Boxster
+19,2004,Porsche," Boxster
 
 ",14500,gas,95750,automatic,clean
-20,2004,"Porsche Boxster S
+20,2004,Porsche," Boxster S
 
 ",25750,gas,50000,manual,clean
-21,2004,"toyota solara
+21,2004,toyota," solara
 
 ",3500,gas,173000,automatic,clean
-22,2005,"dodge dakota
+22,2005,dodge," dakota
 
 ",5500,gas,138000,automatic,clean
-23,2005,"HONDA CRV
+23,2005,HONDA," CRV
 
 ",5900,gas,152222,automatic,clean
-24,2005,"jeep grand cherokee limited
+24,2005,jeep," grand cherokee limited
 
 ",6000,gas,183500,automatic,clean
-25,2006,"BMW 330i
+25,2006,BMW," 330i
 
 ",13500,gas,41250,automatic,clean
-26,2006,"mercedes benz e500
+26,2006,mercedes," benz e500
 
 ",7000,gas,144510,automatic,clean
-27,2008,"Toyota Avalon XLS
+27,2008,Toyota," Avalon XLS
 
 ",10000,gas,67000,automatic,clean
-28,2009,"toyota corolla
+28,2009,toyota," corolla
 
 ",2700,gas,198000,automatic,clean
-29,2010,"2010 ford f-150
+29,2010,2010," ford f-150
 
 ",17000,gas,138000,automatic,clean
-30,2011,"ram 2500
+30,2011,ram," 2500
 
 ",26000,diesel,113000,automatic,salvage
-31,2012,"Chevrolet Avalanche LT
+31,2012,Chevrolet," Avalanche LT
 
 ",17000,gas,130775,automatic,clean
-32,2012,"ford econoline e150 cargo van
+32,2012,ford," econoline e150 cargo van
 
 ",5500,gas,205176,automatic,clean
-33,2013,"mercedes benz sl550
+33,2013,mercedes," benz sl550
 
 ",59000,gas,5764,automatic,clean
-34,2015,"Ford F-150 XLT
+34,2015,Ford," F-150 XLT
 
 ",29900,gas,73000,automatic,clean
-35,2016,"2016 Mini Cooper
+35,2016,2016," Mini Cooper
 
 ",16995,gas,42210,automatic,clean
-36,1996,"Ford Mustang
+36,1996,Ford," Mustang
 
 ",2500,gas,170000,automatic,clean
-37,2009,"bmw 328i
+37,2009,bmw," 328i
 
 ",8500,gas,128000,automatic,clean
-38,2003,"chrysler pt cruiser
+38,2003,chrysler," pt cruiser
 
 ",2000,gas,182000,automatic,clean
-39,2004,"honda accord
+39,2004,honda," accord
 
 ",4000,gas,150000,automatic,clean
-40,1990,"ford f150 lariat 4x4
+40,1990,ford," f150 lariat 4x4
 
 ",3000,gas,300000,automatic,clean
-41,1999,"Isuzu Vehicross
+41,1999,Isuzu," Vehicross
 
 ",10000,gas,7000,manual,clean
-42,2011,"ford fiesta ses
+42,2011,ford," fiesta ses
 
 ",5800,gas,137861,automatic,clean
-43,2002,"FORD F-150
+43,2002,FORD," F-150
 
 ",6500,gas,128502,automatic,clean
-44,2008,"dodge ram 1500
+44,2008,dodge," ram 1500
 
 ",6500,gas,130000,automatic,rebuilt
-45,2009,"toyota camry hybrid
+45,2009,toyota," camry hybrid
 
 ",5500,gas,221441,automatic,clean
-46,1988,"toyota pickup
+46,1988,toyota," pickup
 
 ",4500,gas,231898,manual,clean
-47,2001,"toyota tacoma
+47,2001,toyota," tacoma
 
 ",4000,gas,250000,manual,clean
-48,2013,"Mini Cooper Countryman
+48,2013,Mini," Cooper Countryman
 
 ",8000,gas,165000,manual,clean
-49,2006,"ford freestar se
+49,2006,ford," freestar se
 
 ",4000,gas,151000,automatic,clean
-50,2016,"2016 Ram 2500
+50,2016,2016," Ram 2500
 
 ",32000,gas,120000,automatic,clean
-51,2019,"chevrolet 2500hd duramax diesel
+51,2019,chevrolet," 2500hd duramax diesel
 
 ",69500,diesel,44000,automatic,clean
-52,1990,"dodge ram 1500
+52,1990,dodge," ram 1500
 
 ",1850,gas,288330,automatic,clean
-53,1987,"ford f-150 xlt 4x4
+53,1987,ford," f-150 xlt 4x4
 
 ",5000,gas,1234567,manual,clean
-54,2005,"honda accord
+54,2005,honda," accord
 
 ",3200,gas,233000,automatic,clean
-55,2006,"2006 Toyota Tacoma
+55,2006,2006," Toyota Tacoma
 
 ",9399,gas,218000,automatic,clean
-56,2009,"dodge ram 1500 4x4
+56,2009,dodge," ram 1500 4x4
 
 ",12500,gas,184000,automatic,clean
-57,2010,"vw jetta se
+57,2010,vw," jetta se
 
 ",4000,gas,92000,automatic,clean
-58,2012,"ford f-250 super duty
+58,2012,ford," f-250 super duty
 
 ",17500,gas,151000,automatic,salvage
-59,2015,"infiniti qx60
+59,2015,infiniti," qx60
 
 ",14800,gas,66700,automatic,salvage
-60,2015,"kia optima sx turbo
+60,2015,kia," optima sx turbo
 
 ",11999,gas,54000,automatic,salvage
-61,2015,"nissan pathfinder platinum 4x4
+61,2015,nissan," pathfinder platinum 4x4
 
 ",13999,gas,72500,automatic,salvage
-62,2015,"nissan pathfinder platinum 4x4
+62,2015,nissan," pathfinder platinum 4x4
 
 ",14250,gas,72500,automatic,salvage
-63,2015,"toyota camry
+63,2015,toyota," camry
 
 ",13999,gas,52000,automatic,salvage
-64,2015,"toyota camry
+64,2015,toyota," camry
 
 ",13750,gas,52000,automatic,salvage
-65,2016,"mercedes benz c300
+65,2016,mercedes," benz c300
 
 ",23900,gas,42112,automatic,rebuilt
-66,2016,"RAM 1500
+66,2016,RAM," 1500
 
 ",26000,gas,83000,automatic,salvage
-67,2017,"buick enclave
+67,2017,buick," enclave
 
 ",18899,gas,86000,automatic,rebuilt
-68,2017,"ford edge sport
+68,2017,ford," edge sport
 
 ",19950,gas,33000,automatic,salvage
-69,2017,"nissan altima 2.5 sv
+69,2017,nissan," altima 2.5 sv
 
 ",16500,gas,118000,automatic,clean
-70,2017,"dodge ram 1500
+70,2017,dodge," ram 1500
 
 ",21500,gas,54000,automatic,salvage
-71,2006,"ford f350 dually
+71,2006,ford," f350 dually
 
 ",9500,diesel,222832,automatic,clean
-72,2016,"kia forte ex
+72,2016,kia," forte ex
 
 ",8800,gas,77220,automatic,salvage
-73,2009,"Toyota Avalon Limited
+73,2009,Toyota," Avalon Limited
 
 ",7850,gas,154000,automatic,clean
-74,2013,"nissan titan
+74,2013,nissan," titan
 
 ",20000,gas,166000,automatic,clean
-75,1977,"chevrolet corvette
+75,1977,chevrolet," corvette
 
 ",12900,gas,95400,automatic,clean
-76,2001,"Honda Civic
+76,2001,Honda," Civic
 
 ",2100,gas,250000,automatic,clean
-77,1991,"Ford
+77,1991,Ford,"
 
 ",3500,gas,114433,manual,clean
-78,2000,"Isuzu vehicross
+78,2000,Isuzu," vehicross
 
 ",11500,gas,170000,automatic,clean
-79,2005,"Kia New Spectra
+79,2005,Kia," New Spectra
 
 ",2300,gas,183000,automatic,salvage
-80,2014,"Dodge Grand Caravan
+80,2014,Dodge," Grand Caravan
 
 ",14500,gas,52000,automatic,clean
-81,2015,"GMC Acadia SLT2
+81,2015,GMC," Acadia SLT2
 
 ",23500,gas,76500,automatic,clean
-82,1995,"ford f800
+82,1995,ford," f800
 
 ",21000,diesel,52404,automatic,clean
-83,2001,"volkswagen jetta
+83,2001,volkswagen," jetta
 
 ",4000,gas,147000,automatic,clean
-84,2004,"Toyota Sienna XLE
+84,2004,Toyota," Sienna XLE
 
 ",5400,gas,220000,automatic,clean
-85,2006,"chysler 300c
+85,2006,chysler," 300c
 
 ",6000,gas,144000,automatic,clean
-86,2010,"CADILLAC SRX
+86,2010,CADILLAC," SRX
 
 ",6500,gas,165000,automatic,clean
-87,2010,"chevrolet hhr lt
+87,2010,chevrolet," hhr lt
 
 ",5350,gas,176378,automatic,clean
-88,2016,"hyundai sonata
+88,2016,hyundai," sonata
 
 ",9750,gas,49600,automatic,salvage
-89,2016,"kia optima
+89,2016,kia," optima
 
 ",8750,gas,89000,automatic,salvage
-90,2018,"honda accord
+90,2018,honda," accord
 
 ",27500,gas,44800,automatic,clean
-91,2004,"jeep liberty 4wd 4dr limited
+91,2004,jeep," liberty 4wd 4dr limited
 
 ",4950,gas,83000,automatic,clean
-92,2007,"gmc yukon denali
+92,2007,gmc," yukon denali
 
 ",5499,gas,224000,automatic,clean
-93,2013,"honda fit
+93,2013,honda," fit
 
 ",6600,gas,90573,automatic,salvage
-94,2007,"Mitsubishi Eclipse gs
+94,2007,Mitsubishi," Eclipse gs
 
 ",2600,gas,208700,automatic,clean
-95,1998,"chevy
+95,1998,chevy,"
 
 ",1,gas,6200,automatic,clean
-96,2006,"lexus is 350
+96,2006,lexus," is 350
 
 ",8000,gas,175000,automatic,clean
-97,2015,"hyundai sonata
+97,2015,hyundai," sonata
 
 ",7500,gas,123500,automatic,salvage
-98,2015,"jeep grand cherokee
+98,2015,jeep," grand cherokee
 
 ",13750,gas,89500,automatic,salvage
-99,2015,"toyota tacoma
+99,2015,toyota," tacoma
 
 ",26700,gas,99800,automatic,clean
-100,2005,"toyota 4runner 4x4
+100,2005,toyota," 4runner 4x4
 
 ",3000,gas,250000,automatic,clean
-101,2014,"toyota corolla
+101,2014,toyota," corolla
 
 ",18950,gas,48400,automatic,clean
-102,2000,"Ford F-150
+102,2000,Ford," F-150
 
 ",4500,gas,200000,automatic,clean
-103,2010,"nissan maxima sv premium
+103,2010,nissan," maxima sv premium
 
 ",7000,gas,169826,automatic,clean
-104,1997,"1997 ford f150
+104,1997,1997," ford f150
 
 ",3800,gas,147000,automatic,clean
-105,2008,"toyota tundra
+105,2008,toyota," tundra
 
 ",10700,gas,234000,automatic,salvage
-106,2003,"Buick Lesabre
+106,2003,Buick," Lesabre
 
 ",4100,gas,180000,automatic,clean
-107,2004,"mercury grand marquis
+107,2004,mercury," grand marquis
 
 ",2000,gas,173000,automatic,clean
-108,2013,"2013 Nissan Frontier
+108,2013,2013," Nissan Frontier
 
 ",7500,gas,3,automatic,clean
-109,2014,"chevy silverado 1500 ltz 4x4
+109,2014,chevy," silverado 1500 ltz 4x4
 
 ",23900,gas,95000,automatic,rebuilt
-110,2018,"subaru outback 2.5i premium
+110,2018,subaru," outback 2.5i premium
 
 ",15900,gas,81000,automatic,rebuilt
-111,1995,"buick regal
+111,1995,buick," regal
 
 ",1500,gas,185000,automatic,clean
-112,1963,"dodge 330 4 dr.
+112,1963,dodge," 330 4 dr.
 
 ",8500,gas,85000,automatic,clean
-113,2014,"Bmw
+113,2014,Bmw,"
 
 ",17000,gas,33000,automatic,salvage
-114,2001,"toyota camry
+114,2001,toyota," camry
 
 ",2000,gas,265000,automatic,salvage
-115,2002,"acura tl
+115,2002,acura," tl
 
 ",1500,gas,250000,automatic,clean
-116,2005,"chevy silverado
+116,2005,chevy," silverado
 
 ",12500,gas,194000,automatic,clean
-117,2009,"volkswagen gti
+117,2009,volkswagen," gti
 
 ",5900,gas,130200,manual,clean
-118,2013,"hyundai veloster
+118,2013,hyundai," veloster
 
 ",8300,gas,151579,manual,clean
-119,2014,"chevrolet cruze ls
+119,2014,chevrolet," cruze ls
 
 ",7999,gas,58240,automatic,rebuilt
-120,2015,"2015 BMW X5
+120,2015,2015," BMW X5
 
 ",31500,gas,47850,automatic,clean
-121,1997,"bmw m3 sedan
+121,1997,bmw," m3 sedan
 
 ",7000,gas,256424,manual,salvage
-122,2005,"toyota 4runner
+122,2005,toyota," 4runner
 
 ",6600,gas,247000,automatic,clean
-123,2007,"dodge caliber
+123,2007,dodge," caliber
 
 ",3200,gas,198000,automatic,salvage
-124,2010,"dodge grand caravan
+124,2010,dodge," grand caravan
 
 ",5300,gas,178000,automatic,clean
-125,2010,"honda odyssey
+125,2010,honda," odyssey
 
 ",7700,gas,163000,automatic,clean
-126,2010,"toyota camry hybrid
+126,2010,toyota," camry hybrid
 
 ",7100,gas,146000,automatic,clean
-127,2011,"dodge nitro
+127,2011,dodge," nitro
 
 ",7400,gas,173000,automatic,clean
-128,2011,"ford explorer
+128,2011,ford," explorer
 
 ",8700,gas,176000,automatic,clean
-129,2011,"GMC Terrain SLT
+129,2011,GMC," Terrain SLT
 
 ",8900,gas,136000,automatic,clean
-130,2011,"Hyundai Elantra
+130,2011,Hyundai," Elantra
 
 ",6500,gas,143000,automatic,clean
-131,2012,"chrysler 300
+131,2012,chrysler," 300
 
 ",12200,gas,115000,automatic,clean
-132,2012,"chrysler 300
+132,2012,chrysler," 300
 
 ",12000,gas,115000,automatic,clean
-133,2012,"gmc acadia
+133,2012,gmc," acadia
 
 ",10500,gas,116000,automatic,clean
-134,2012,"gmc acadia
+134,2012,gmc," acadia
 
 ",10400,gas,116000,automatic,clean
-135,2013,"chrysler 300 s
+135,2013,chrysler," 300 s
 
 ",7900,gas,204000,automatic,clean
-136,2013,"chrysler 300
+136,2013,chrysler," 300
 
 ",7500,gas,186000,automatic,clean
-137,2013,"kia sorento lx
+137,2013,kia," sorento lx
 
 ",8200,gas,129000,automatic,clean
-138,2013,"nissan altima
+138,2013,nissan," altima
 
 ",5700,gas,200000,automatic,clean
-139,2014,"Hyundai Sonata SE
+139,2014,Hyundai," Sonata SE
 
 ",9900,gas,131000,automatic,clean
-140,2014,"toyota tundra
+140,2014,toyota," tundra
 
 ",39500,gas,66000,automatic,clean
-141,2015,"nissan altima
+141,2015,nissan," altima
 
 ",7700,gas,184000,automatic,clean
-142,2016,"chevrolet cruze
+142,2016,chevrolet," cruze
 
 ",10100,gas,70000,automatic,clean
-143,1965,"Ram marlin
+143,1965,Ram," marlin
 
 ",7000,gas,86974,automatic,clean
-144,2006,"mercury grand marquis
+144,2006,mercury," grand marquis
 
 ",1000,gas,302000,automatic,clean
-145,2009,"toyota tacoma
+145,2009,toyota," tacoma
 
 ",15000,gas,296000,automatic,clean
-146,2011,"toyota prius
+146,2011,toyota," prius
 
 ",9500,hybrid,124733,automatic,clean
-147,2014,"dodge charger se
+147,2014,dodge," charger se
 
 ",7500,gas,151110,manual,salvage
-148,2014,"mercedes benz c300
+148,2014,mercedes," benz c300
 
 ",18500,gas,74000,automatic,clean
-149,2016,"Nissan Altima
+149,2016,Nissan," Altima
 
 ",13900,gas,86000,automatic,clean
-150,2017,"ford f-150
+150,2017,ford," f-150
 
 ",36500,gas,39300,automatic,clean
-151,2017,"dodge ram 1500
+151,2017,dodge," ram 1500
 
 ",41900,gas,62997,automatic,clean
-152,1994,"Chevrolet
+152,1994,Chevrolet,"
 
 ",1500,gas,123455,other,clean
-153,1983,"ford bronco 2
+153,1983,ford," bronco 2
 
 ",5000,gas,1,automatic,clean
-154,2002,"ford explorer
+154,2002,ford," explorer
 
 ",2800,gas,199000,automatic,clean
-155,2012,"nissan versa
+155,2012,nissan," versa
 
 ",4800,gas,224000,automatic,clean
-156,2005,"subaru legacy 2.5 gt limited
+156,2005,subaru," legacy 2.5 gt limited
 
 ",4750,gas,149500,manual,clean
-157,2002,"Chevrolets10
+157,2002,Chevrolets10,"
 
 ",3700,gas,16000,automatic,clean
-158,2004,"Chevrolet trailblazer
+158,2004,Chevrolet," trailblazer
 
 ",2900,gas,196000,automatic,clean
-159,2007,"honda accord
+159,2007,honda," accord
 
 ",3000,gas,260000,automatic,clean
-160,2016,"dodge challenger r/t plus
+160,2016,dodge," challenger r/t plus
 
 ",33310,gas,51450,manual,clean
-161,2008,"bmw 328i
+161,2008,bmw," 328i
 
 ",2800,gas,20200,automatic,clean
-162,2007,"bmw 650i convertible
+162,2007,bmw," 650i convertible
 
 ",10500,gas,105552,automatic,clean
-163,1986,"ford bronco eddie bauer
+163,1986,ford," bronco eddie bauer
 
 ",5500,gas,62591,automatic,clean
-164,2005,"saturn vue
+164,2005,saturn," vue
 
 ",2500,gas,213000,automatic,clean
-165,1980,"chevrolet corvette stingray
+165,1980,chevrolet," corvette stingray
 
 ",9500,gas,77000,automatic,clean
-166,1989,"chevrolet silverado 1500
+166,1989,chevrolet," silverado 1500
 
 ",3500,gas,248000,manual,clean
-167,2001,"subaru outback
+167,2001,subaru," outback
 
 ",3000,gas,234000,automatic,clean
-168,2012,"GMC Canyon
+168,2012,GMC," Canyon
 
 ",12950,gas,98800,automatic,clean
-169,1994,"ford f150
+169,1994,ford," f150
 
 ",3500,gas,212000,automatic,clean
-170,1980,"mgb convertible
+170,1980,mgb," convertible
 
 ",5000,gas,66000,manual,clean
-171,1995,"Freightliner
+171,1995,Freightliner,"
 
 ",9800,diesel,667446,manual,clean
-172,2012,"HONDA ACCORD
+172,2012,HONDA," ACCORD
 
 ",10000,gas,144000,automatic,rebuilt
-173,2014,"chevy malibu ltz
+173,2014,chevy," malibu ltz
 
 ",5000,hybrid,190000,automatic,clean
-174,2001,"Chevy s10 Extended Cab
+174,2001,Chevy," s10 Extended Cab
 
 ",5900,gas,190000,automatic,clean
-175,2001,"infiniti i30t
+175,2001,infiniti," i30t
 
 ",2500,gas,160000,automatic,clean
-176,2003,"GMC
+176,2003,GMC,"
 
 ",8995,gas,145000,automatic,clean
-177,2003,"infiniti g35
+177,2003,infiniti," g35
 
 ",2000,gas,17000,automatic,clean
-178,2003,"Mercedes SL500
+178,2003,Mercedes," SL500
 
 ",7500,gas,120068,automatic,clean
-179,2007,"ford f-250
+179,2007,ford," f-250
 
 ",7900,gas,205000,automatic,clean
-180,2013,"dodge durango sxt
+180,2013,dodge," durango sxt
 
 ",16000,gas,107000,automatic,clean
-181,2003,"peterbilt 387
+181,2003,peterbilt," 387
 
 ",26500,diesel,300000,manual,clean
-182,1970,"1970 Chevy Long bed
+182,1970,1970," Chevy Long bed
 
 ",4500,gas,9999999,automatic,clean
-183,1972,"International
+183,1972,International,"
 
 ",7500,gas,79000,automatic,clean
-184,1975,"Ford Bronco
+184,1975,Ford," Bronco
 
 ",39000,gas,157000,automatic,clean
-185,1993,"chevrolet g20 van
+185,1993,chevrolet," g20 van
 
 ",1800,gas,148070,automatic,clean
-186,1995,"chevrolet silverado 1500
+186,1995,chevrolet," silverado 1500
 
 ",10000,gas,231880,automatic,clean
-187,1996,"toyota camry le
+187,1996,toyota," camry le
 
 ",1500,gas,230000,automatic,clean
-188,1998,"chevy express g3500 van
+188,1998,chevy," express g3500 van
 
 ",6500,gas,128500,automatic,clean
-189,2001,"toyota sienna xle
+189,2001,toyota," sienna xle
 
 ",2500,gas,204000,automatic,clean
-190,2002,"mazda protege lx
+190,2002,mazda," protege lx
 
 ",2600,gas,185610,automatic,clean
-191,2003,"chevrolet tahoe z71
+191,2003,chevrolet," tahoe z71
 
 ",7800,gas,285000,automatic,clean
-192,2003,"chevrolet avalanche
+192,2003,chevrolet," avalanche
 
 ",2495,gas,190000,automatic,clean
-193,2003,"Hyundai Santa Fe
+193,2003,Hyundai," Santa Fe
 
 ",750,gas,197000,automatic,clean
-194,2003,"toyota matrix xr
+194,2003,toyota," matrix xr
 
 ",6800,gas,86444,automatic,clean
-195,2004,"Ford F150 XLT 4x4
+195,2004,Ford," F150 XLT 4x4
 
 ",4000,gas,225000,automatic,clean
-196,2004,"ford focus
+196,2004,ford," focus
 
 ",2400,gas,202703,automatic,clean
-197,2004,"honda accord
+197,2004,honda," accord
 
 ",3200,gas,205492,automatic,clean
-198,2004,"Grand Cherokee Laredo
+198,2004,Grand," Cherokee Laredo
 
 ",3650,gas,213800,automatic,clean
-199,2004,"subaru outback
+199,2004,subaru," outback
 
 ",3750,gas,187421,automatic,clean
-200,2005,"BMW M3
+200,2005,BMW," M3
 
 ",19850,gas,151678,manual,clean
-201,2005,"Dodge RAM 2500
+201,2005,Dodge," RAM 2500
 
 ",14350,gas,109000,automatic,clean
-202,2005,"ford taurus
+202,2005,ford," taurus
 
 ",3800,gas,89500,automatic,clean
-203,2006,"chevrolet silverado 1500
+203,2006,chevrolet," silverado 1500
 
 ",10000,gas,219000,automatic,clean
-204,2007,"chevrolet suburban 1500
+204,2007,chevrolet," suburban 1500
 
 ",3500,gas,210150,automatic,clean
-205,2007,"dodge ram 2500 4x4
+205,2007,dodge," ram 2500 4x4
 
 ",21500,diesel,181000,automatic,clean
-206,2007,"ford f-150
+206,2007,ford," f-150
 
 ",12000,gas,212000,automatic,clean
-207,2007,"kia sorento ex
+207,2007,kia," sorento ex
 
 ",4000,gas,160000,automatic,clean
-208,2007,"ss
+208,2007,ss,"
 
 ",15000,gas,220000,automatic,clean
-209,2008,"chevrolet tahoe
+209,2008,chevrolet," tahoe
 
 ",9500,gas,250000,automatic,clean
-210,2008,"chrysler town & country
+210,2008,chrysler," town & country
 
 ",2650,gas,155000,automatic,clean
-211,2008,"nissan versa
+211,2008,nissan," versa
 
 ",2000,gas,221000,automatic,clean
-212,2010,"mini cooper s
+212,2010,mini," cooper s
 
 ",9900,gas,114000,manual,clean
-213,2010,"Nissan Maxima
+213,2010,Nissan," Maxima
 
 ",5200,gas,281058,automatic,clean
-214,2010,"Nissan Maxima
+214,2010,Nissan," Maxima
 
 ",5000,gas,281058,automatic,clean
-215,2010,"VW CC 2.0T
+215,2010,VW," CC 2.0T
 
 ",7990,gas,146500,automatic,clean
-216,2011,"nissan rouge s awd
+216,2011,nissan," rouge s awd
 
 ",3999,gas,120000,automatic,clean
-217,2011,"nissan rouge sl awd
+217,2011,nissan," rouge sl awd
 
 ",3999,gas,120000,automatic,clean
-218,2012,"chevrolet suburban lt 4x4
+218,2012,chevrolet," suburban lt 4x4
 
 ",14000,gas,143000,automatic,salvage
-219,2012,"toyota tacoma
+219,2012,toyota," tacoma
 
 ",15000,gas,136000,automatic,clean
-220,2013,"buick verano
+220,2013,buick," verano
 
 ",4400,gas,143222,automatic,salvage
-221,2013,"jeep patriot 4x4
+221,2013,jeep," patriot 4x4
 
 ",6900,gas,127400,automatic,clean
-222,2013,"ram 1500
+222,2013,ram," 1500
 
 ",17500,gas,95000,automatic,clean
-223,2013,"volkswagen passat
+223,2013,volkswagen," passat
 
 ",10995,gas,109695,automatic,clean
-224,2014,"nissan titan
+224,2014,nissan," titan
 
 ",17900,gas,93500,automatic,salvage
-225,2014,"toyota tacoma
+225,2014,toyota," tacoma
 
 ",27500,gas,62375,automatic,clean
-226,2015,"honda civic
+226,2015,honda," civic
 
 ",11500,gas,34000,automatic,salvage
-227,2016,"Ford F-150
+227,2016,Ford," F-150
 
 ",37000,gas,108000,automatic,clean
-228,2016,"GMC Yukon DENALI AWD
+228,2016,GMC," Yukon DENALI AWD
 
 ",45900,gas,73462,automatic,clean
-229,2016,"Kia Sorento
+229,2016,Kia," Sorento
 
 ",18495,gas,101919,automatic,clean
-230,2017,"toyota tundra limited 4x4 gas
+230,2017,toyota," tundra limited 4x4 gas
 
 ",35900,gas,132000,automatic,clean
-231,2018,"ford fusion hybrid
+231,2018,ford," fusion hybrid
 
 ",16900,hybrid,83402,automatic,clean
-232,2018,"gmc sierra 1500 slt
+232,2018,gmc," sierra 1500 slt
 
 ",45000,gas,97000,automatic,clean
-233,2020,"BMW M235i
+233,2020,BMW," M235i
 
 ",46000,gas,7000,automatic,clean
-234,1996,"Ford F-150 two of them
+234,1996,Ford," F-150 two of them
 
 ",1600,gas,150000,manual,clean
-235,2009,"BMW
+235,2009,BMW,"
 
 ",6000,gas,155500,automatic,clean
-236,2008,"cadillac sts
+236,2008,cadillac," sts
 
 ",3500,gas,170000,automatic,clean
-237,2004,"mercedes benz
+237,2004,mercedes," benz
 
 ",2500,gas,130000,automatic,clean
-238,1997,"1997 Chevy expres
+238,1997,1997," Chevy expres
 
 ",4500,gas,4500,automatic,clean
-239,1996,"ford E-350
+239,1996,ford," E-350
 
 ",8500,gas,34000,automatic,clean
-240,1965,"ford f100 pickup
+240,1965,ford," f100 pickup
 
 ",8000,gas,000000000,manual,clean
-241,2017,"2017 Acadia Denali gmc
+241,2017,2017," Acadia Denali gmc
 
 ",34000,gas,39722,automatic,clean
-242,2008,"honda odyssey
+242,2008,honda," odyssey
 
 ",3450,gas,290000,automatic,clean
-243,2013,"hyundai santa fe
+243,2013,hyundai," santa fe
 
 ",9900,gas,85000,automatic,salvage
-244,2012,"kia sorento lx
+244,2012,kia," sorento lx
 
 ",9000,gas,111848,automatic,clean
-245,2000,"2000 toyota 4runner
+245,2000,2000," toyota 4runner
 
 ",4000,gas,231000,automatic,clean
-246,2010,"toyota camry
+246,2010,toyota," camry
 
 ",6300,gas,204000,automatic,clean
-247,2022,"Toyota (all)
+247,2022,Toyota," (all)
 
 ",1,gas,50000,automatic,clean
-248,2003,"Ford E350
+248,2003,Ford," E350
 
 ",6000,gas,240000,automatic,clean
-249,1999,"toyota tacoma prerunner
+249,1999,toyota," tacoma prerunner
 
 ",5950,gas,260123,automatic,clean
-250,2006,"Dodge Ram Mega Cab
+250,2006,Dodge," Ram Mega Cab
 
 ",10900,gas,203446,automatic,clean
-251,2007,"2007 chevy 3500
+251,2007,2007," chevy 3500
 
 ",11500,diesel,200000,automatic,clean
-252,2007,"ford explorer xlt
+252,2007,ford," explorer xlt
 
 ",4300,gas,180000,automatic,clean
-253,2007,"gmc envoy denali
+253,2007,gmc," envoy denali
 
 ",5800,gas,134772,automatic,clean
-254,2013,"dodge charger
+254,2013,dodge," charger
 
 ",7000,gas,159792,automatic,salvage
-255,2015,"chevy tahoe
+255,2015,chevy," tahoe
 
 ",25000,gas,121408,automatic,salvage
-256,2016,"nissan nv3500
+256,2016,nissan," nv3500
 
 ",22800,gas,188135,automatic,clean
-257,2013,"audi q7
+257,2013,audi," q7
 
 ",17500,gas,132569,automatic,clean
-258,2011,"toyota camry
+258,2011,toyota," camry
 
 ",9500,gas,113000,automatic,clean
-259,2005,"Camper
+259,2005,Camper,"
 
 ",9600,gas,67000,automatic,clean
-260,2010,"GMC Sierra
+260,2010,GMC," Sierra
 
 ",9850,gas,146000,automatic,salvage
-261,2005,"Chevy Silverado
+261,2005,Chevy," Silverado
 
 ",8500,gas,138500,automatic,clean
-262,2005,"mercedes benz sl500
+262,2005,mercedes," benz sl500
 
 ",22500,gas,40000,automatic,clean
-263,2008,"honda accord 2008
+263,2008,honda," accord 2008
 
 ",4500,gas,203500,automatic,clean
-264,2008,"honda accord
+264,2008,honda," accord
 
 ",3800,gas,203500,automatic,clean
-265,1969,"1969 dodge super bee
+265,1969,1969," dodge super bee
 
 ",65000,gas,86000,automatic,clean
-266,1994,"dodge dakota
+266,1994,dodge," dakota
 
 ",2000,gas,195769,automatic,clean
-267,1999,"ford f350 super duty
+267,1999,ford," f350 super duty
 
 ",8150,diesel,220000,automatic,clean
-268,1999,"gmc sierra 1500 Sierra
+268,1999,gmc," sierra 1500 Sierra
 
 ",15995,gas,347960,automatic,clean
-269,2000,"Toyota MR2
+269,2000,Toyota," MR2
 
 ",8000,gas,65000,manual,clean
-270,2001,"2001 chevy s10
+270,2001,2001," chevy s10
 
 ",1200,gas,150000,automatic,clean
-271,2001,"bmw m5
+271,2001,bmw," m5
 
 ",20000,gas,104000,manual,clean
-272,2001,"Bonneville SSEI
+272,2001,Bonneville," SSEI
 
 ",2250,gas,221450,automatic,clean
-273,2002,"chevrolet corvette
+273,2002,chevrolet," corvette
 
 ",26000,gas,41674,manual,clean
-274,2004,"toyota camry
+274,2004,toyota," camry
 
 ",2700,gas,304000,automatic,clean
-275,2005,"subaru forester
+275,2005,subaru," forester
 
 ",4000,gas,232000,automatic,clean
-276,2006,"chevrolet suburban lt
+276,2006,chevrolet," suburban lt
 
 ",16500,gas,111600,automatic,clean
-277,2006,"2006 mazda tribute
+277,2006,2006," mazda tribute
 
 ",3500,gas,140000,automatic,clean
-278,2007,"aston martin v8 vantage
+278,2007,aston," martin v8 vantage
 
 ",35000,gas,31000,manual,clean
-279,2007,"honda accord
+279,2007,honda," accord
 
 ",4400,gas,203299,automatic,rebuilt
-280,2008,"dodge charger
+280,2008,dodge," charger
 
 ",5000,gas,120321,automatic,salvage
-281,2008,"nissan xterra
+281,2008,nissan," xterra
 
 ",2900,gas,256000,automatic,clean
-282,2008,"toyota corolla
+282,2008,toyota," corolla
 
 ",4800,gas,229000,automatic,clean
-283,2015,"2015 kia soul
+283,2015,2015," kia soul
 
 ",7800,gas,68239,automatic,salvage
-284,2016,"dodge ram 2500
+284,2016,dodge," ram 2500
 
 ",42000,diesel,82000,automatic,clean
-285,2016,"dodge ram 2500
+285,2016,dodge," ram 2500
 
 ",40000,diesel,82000,automatic,clean
-286,2016,"FORD F150
+286,2016,FORD," F150
 
 ",34500,gas,147000,automatic,clean
-287,2016,"maserati quattroporte
+287,2016,maserati," quattroporte
 
 ",32000,gas,38000,automatic,rebuilt
-288,2017,"2017 Subaru Outback
+288,2017,2017," Subaru Outback
 
 ",22900,gas,58381,automatic,clean
-289,2019,"Toyota Tundra
+289,2019,Toyota," Tundra
 
 ",38799,gas,37244,automatic,clean
-290,2020,"ram 2500 crew cab diesel
+290,2020,ram," 2500 crew cab diesel
 
 ",74000,diesel,30000,automatic,clean
-291,1986,"chevy
+291,1986,chevy,"
 
 ",9500,gas,100000,automatic,clean
-292,2005,"chrysler town and country
+292,2005,chrysler," town and country
 
 ",3496,gas,164700,automatic,salvage
-293,1999,"chevrolet suburban
+293,1999,chevrolet," suburban
 
 ",4500,gas,203000,automatic,clean
-294,2007,"dodge charger
+294,2007,dodge," charger
 
 ",4500,gas,163502,automatic,clean
-295,2020,"dodge ram 2500
+295,2020,dodge," ram 2500
 
 ",72500,diesel,34700,automatic,clean
-296,1996,"geo tracker
+296,1996,geo," tracker
 
 ",4500,gas,183000,manual,clean
-297,2009,"dodge grand caravan
+297,2009,dodge," grand caravan
 
 ",4200,gas,149000,automatic,clean
-298,2009,"dodge grand caravan
+298,2009,dodge," grand caravan
 
 ",3300,gas,180000,automatic,clean
-299,2013,"dodge journey sxt
+299,2013,dodge," journey sxt
 
 ",5500,gas,172000,automatic,clean
-300,2000,"toyota 4runner sr5
+300,2000,toyota," 4runner sr5
 
 ",6250,gas,165000,automatic,clean
-301,2006,"ford econoline cargo van
+301,2006,ford," econoline cargo van
 
 ",4900,gas,382000,automatic,clean
-302,2008,"2008 Ford  F-250
+302,2008,2008," Ford  F-250
 
 ",12000,gas,78000,automatic,clean
-303,1978,"lincoln continental town car
+303,1978,lincoln," continental town car
 
 ",3500,gas,53000,automatic,clean
-304,1990,"honda prelude si
+304,1990,honda," prelude si
 
 ",2500,gas,173000,manual,clean
-305,1997,"ford ranger
+305,1997,ford," ranger
 
 ",2500,gas,183000,automatic,clean
-306,2009,"pontiac g5
+306,2009,pontiac," g5
 
 ",2900,gas,127000,automatic,clean
-307,2002,"2002 ford explorer
+307,2002,2002," ford explorer
 
 ",2500,gas,153000,automatic,clean
-308,1998,"ford f-800
+308,1998,ford," f-800
 
 ",15000,diesel,160000,manual,clean
-309,1998,"1998 Toyota Tacoma 4x4
+309,1998,1998," Toyota Tacoma 4x4
 
 ",12500,gas,196000,manual,clean
-310,1999,"jeep cherokee
+310,1999,jeep," cherokee
 
 ",11000,gas,101000,manual,rebuilt
-311,2002,"honda accord ex
+311,2002,honda," accord ex
 
 ",3995,gas,169433,automatic,rebuilt
-312,2002,"lexus sc 430 convertible
+312,2002,lexus," sc 430 convertible
 
 ",13000,gas,137400,automatic,clean
-313,2007,"chevrolet silverado 1500
+313,2007,chevrolet," silverado 1500
 
 ",13500,gas,249647,automatic,clean
-314,2010,"volvo xc70 awd
+314,2010,volvo," xc70 awd
 
 ",5700,gas,129700,automatic,salvage
-315,2011,"ford f150 4x4
+315,2011,ford," f150 4x4
 
 ",13500,gas,183500,automatic,clean
-316,2013,"vanguard
+316,2013,vanguard,"
 
 ",55000,other,1,other,rebuilt
-317,2015,"bmw m3 sedan
+317,2015,bmw," m3 sedan
 
 ",39800,gas,39000,automatic,salvage
-318,2016,"chevrolet suburban lt
+318,2016,chevrolet," suburban lt
 
 ",32000,gas,62000,automatic,salvage
-319,2016,"toyota sienna xle
+319,2016,toyota," sienna xle
 
 ",16400,gas,53000,automatic,salvage
-320,2017,"Toyota Prius Hybrid V
+320,2017,Toyota," Prius Hybrid V
 
 ",17800,hybrid,52000,automatic,salvage
-321,2019,"ford f350 supercrew 4d
+321,2019,ford," f350 supercrew 4d
 
 ",55000,diesel,27452,automatic,salvage
-322,2020,"nissan titan
+322,2020,nissan," titan
 
 ",45500,gas,1500,automatic,rebuilt
-323,2008,"buick lucerne
+323,2008,buick," lucerne
 
 ",1700,gas,46205,automatic,salvage
-324,2015,"toyota tacoma
+324,2015,toyota," tacoma
 
 ",20750,gas,120000,automatic,salvage
-325,2003,"toyota tundra
+325,2003,toyota," tundra
 
 ",9500,gas,235000,automatic,clean
-326,1948,"chevrolet
+326,1948,chevrolet,"
 
 ",55000,gas,22000,manual,clean
-327,2005,"ford Thunderbird convertible
+327,2005,ford," Thunderbird convertible
 
 ",12950,gas,103127,automatic,clean
-328,2006,"2006 ford expedition
+328,2006,2006," ford expedition
 
 ",5200,gas,255000,automatic,clean
-329,1991,"1983 Mercedes
+329,1991,1983," Mercedes
 
 ",N/A,diesel,240000,automatic,clean
-330,2005,"mini cooper s
+330,2005,mini," cooper s
 
 ",6000,gas,113000,manual,clean
-331,1963,"ford falcon
+331,1963,ford," falcon
 
 ",6000,gas,26000,manual,clean
-332,2014,"2014 Jeep Wrangler unlimited
+332,2014,2014," Jeep Wrangler unlimited
 
 ",29500,gas,107000,automatic,clean
-333,2007,"gmc sierra 2500hd diesel
+333,2007,gmc," sierra 2500hd diesel
 
 ",38000,diesel,114000,automatic,clean
-334,2008,"chevrolet trailblazer
+334,2008,chevrolet," trailblazer
 
 ",6000,gas,168000,automatic,clean
-335,2014,"ford fusion
+335,2014,ford," fusion
 
 ",15000,gas,60205,automatic,clean
-336,2014,"scion frs
+336,2014,scion," frs
 
 ",28000,gas,38000,automatic,clean
-337,2017,"chevrolet sonic ls
+337,2017,chevrolet," sonic ls
 
 ",6500,gas,87000,automatic,salvage
-338,1965,"ford mustang
+338,1965,ford," mustang
 
 ",2000,gas,1000,automatic,missing
-339,1929,"Ford A Model
+339,1929,Ford," A Model
 
 ",3000,other,1000,other,clean
-340,1979,"chevrolet camaro
+340,1979,chevrolet," camaro
 
 ",12500,gas,1,automatic,clean
-341,1963,"Rambler
+341,1963,Rambler,"
 
 ",2750,gas,55000,automatic,clean
-342,2005,"ford explorer sport trac xlt
+342,2005,ford," explorer sport trac xlt
 
 ",8900,gas,170006,automatic,clean
-343,2010,"International IC CE 300
+343,2010,International," IC CE 300
 
 ",10000,diesel,128000,automatic,clean
-344,2014,"toyota tacoma 4x4
+344,2014,toyota," tacoma 4x4
 
 ",26500,gas,76000,automatic,salvage
-345,2015,"2015 gmc yukon xl denali
+345,2015,2015," gmc yukon xl denali
 
 ",37850,gas,84000,automatic,clean
-346,2018,"Ford F-150
+346,2018,Ford," F-150
 
 ",39000,gas,48600,automatic,clean
-347,2009,"scion tc
+347,2009,scion," tc
 
 ",2900,gas,185748,manual,clean
-348,2018,"Chevrolet Colorado extended cab
+348,2018,Chevrolet," Colorado extended cab
 
 ",22500,gas,32502,manual,lien
-349,2019,"chevrolet silverado high country
+349,2019,chevrolet," silverado high country
 
 ",76000,diesel,30000,automatic,clean
-350,2005,"Hummer H2
+350,2005,Hummer," H2
 
 ",12345,gas,240000,automatic,clean
-351,2011,"nissan maxima
+351,2011,nissan," maxima
 
 ",8300,gas,114000,automatic,salvage
-352,2018,"Nissan Sentra S
+352,2018,Nissan," Sentra S
 
 ",10995,gas,56222,automatic,rebuilt
-353,2019,"Nissan Frontier SV crew cab
+353,2019,Nissan," Frontier SV crew cab
 
 ",18600,gas,48671,automatic,rebuilt
-354,2020,"chevrolet colorado 2wd wt
+354,2020,chevrolet," colorado 2wd wt
 
 ",23380,gas,25042,automatic,rebuilt
-355,1984,"GMC Jimmy
+355,1984,GMC," Jimmy
 
 ",3500,gas,151000,automatic,clean
-356,1995,"1995 chevy silverado
+356,1995,1995," chevy silverado
 
 ",7500,gas,242000,manual,clean
-357,2016,"2016 ram 1500
+357,2016,2016," ram 1500
 
 ",15500,gas,198496,automatic,clean
-358,2005,"2005 Isuzu Npr
+358,2005,2005," Isuzu Npr
 
 ",6800,diesel,243000,automatic,salvage
-359,2001,"dodge durango slt 4wd
+359,2001,dodge," durango slt 4wd
 
 ",2500,gas,126320,automatic,clean
-360,2011,"toyota sienna
+360,2011,toyota," sienna
 
 ",14000,gas,206500,automatic,clean
-361,2016,"chevrolet silverado 1500
+361,2016,chevrolet," silverado 1500
 
 ",31000,gas,93000,automatic,clean
-362,1979,"chevy c10
+362,1979,chevy," c10
 
 ",3000,gas,18500,automatic,clean
-363,2011,"2011 Ford Ranger 4x4
+363,2011,2011," Ford Ranger 4x4
 
 ",10500,gas,129000,automatic,clean
-364,1974,"Chevy Monte Carlo
+364,1974,Chevy," Monte Carlo
 
 ",12000,gas,72000,automatic,clean
-365,2003,"2005 dodge ram 2500
+365,2003,2005," dodge ram 2500
 
 ",10000,diesel,306000,automatic,clean
-366,2008,"BMW 335I
+366,2008,BMW," 335I
 
 ",5900,gas,142000,automatic,rebuilt
-367,2005,"chrysler pacifica
+367,2005,chrysler," pacifica
 
 ",3500,gas,276000,automatic,clean
-368,2007,"lincoln town car
+368,2007,lincoln," town car
 
 ",8400,gas,150000,automatic,clean
-369,1989,"toyota corolla sr5
+369,1989,toyota," corolla sr5
 
 ",4700,gas,301000,manual,clean
-370,2008,"2008 Chevy Tahoe
+370,2008,2008," Chevy Tahoe
 
 ",10750,gas,151000,automatic,clean
-371,2005,"toyota camry
+371,2005,toyota," camry
 
 ",5995,gas,224400,automatic,clean
-372,1984,"buick regal
+372,1984,buick," regal
 
 ",12345,gas,1000,automatic,clean
-373,1987,"Chevrolet Camaro
+373,1987,Chevrolet," Camaro
 
 ",24900,gas,68000,manual,clean
-374,1990,"gmc sierra 1500
+374,1990,gmc," sierra 1500
 
 ",6250,gas,161000,automatic,clean
-375,1999,"honda accord
+375,1999,honda," accord
 
 ",1995,gas,200000,automatic,clean
-376,2000,"ford f-250
+376,2000,ford," f-250
 
 ",14000,diesel,153000,manual,clean
-377,2000,"Toyota Tundra Crew Cab 4x2
+377,2000,Toyota," Tundra Crew Cab 4x2
 
 ",7500,gas,198614,automatic,clean
-378,2004,"toyota 4runner
+378,2004,toyota," 4runner
 
 ",9000,gas,181000,automatic,clean
-379,2014,"dodge dart aero
+379,2014,dodge," dart aero
 
 ",6000,gas,118282,automatic,clean
-380,2007,"chrysler town and country
+380,2007,chrysler," town and country
 
 ",3500,gas,213000,automatic,clean
-381,1994,"mitsubishi fuso
+381,1994,mitsubishi," fuso
 
 ",12500,diesel,173556,manual,clean
-382,2002,"2002 Ford Explorer Limited
+382,2002,2002," Ford Explorer Limited
 
 ",2200,gas,203000,automatic,clean
-383,2004,"toyota 4runner
+383,2004,toyota," 4runner
 
 ",6900,gas,235068,automatic,clean
-384,2007,"Toyota Matrix
+384,2007,Toyota," Matrix
 
 ",3995,gas,246550,automatic,clean
-385,2017,"Nissan Maxima SR
+385,2017,Nissan," Maxima SR
 
 ",17500,gas,55000,automatic,salvage
-386,2017,"Nissan Maxima SR
+386,2017,Nissan," Maxima SR
 
 ",18500,gas,56000,automatic,salvage
-387,2013,"chevrolet impala ltz
+387,2013,chevrolet," impala ltz
 
 ",3300,gas,165000,automatic,clean
-388,2002,"chevrolet trailblazer lt
+388,2002,chevrolet," trailblazer lt
 
 ",2000,gas,226806,automatic,clean
-389,2009,"dodge ram 3500
+389,2009,dodge," ram 3500
 
 ",24500,diesel,91901,manual,clean
-390,2005,"subaru outback ll bean edition
+390,2005,subaru," outback ll bean edition
 
 ",5700,gas,116228,automatic,clean
-391,2007,"hummer h3
+391,2007,hummer," h3
 
 ",13500,gas,224500,automatic,clean
-392,2016,"cadillac escalade esv
+392,2016,cadillac," escalade esv
 
 ",45000,gas,89000,automatic,lien
-393,2003,"chevy silverado
+393,2003,chevy," silverado
 
 ",2500,gas,374000,automatic,clean
-394,2006,"Jeep Grand Cherokee Laredo
+394,2006,Jeep," Grand Cherokee Laredo
 
 ",5200,gas,94300,automatic,salvage
-395,2008,"gmc acadia Sle
+395,2008,gmc," acadia Sle
 
 ",4800,gas,133192,automatic,salvage
-396,2009,"chevrolet impala lt
+396,2009,chevrolet," impala lt
 
 ",2800,gas,161194,automatic,salvage
-397,2010,"dodge challenger r/t
+397,2010,dodge," challenger r/t
 
 ",8800,gas,198000,automatic,clean
-398,2012,"ford fusion
+398,2012,ford," fusion
 
 ",3200,gas,129295,automatic,salvage
-399,2019,"ford f-350
+399,2019,ford," f-350
 
 ",95000,diesel,20500,automatic,clean
-400,2005,"buick lesabre 4s
+400,2005,buick," lesabre 4s
 
 ",975,gas,127000,automatic,salvage
-401,2013,"ford expedition el
+401,2013,ford," expedition el
 
 ",20000,gas,119500,automatic,clean
-402,2006,"dodge charger r/t
+402,2006,dodge," charger r/t
 
 ",2500,gas,153000,automatic,clean
-403,1982,"Morgan Plus 8
+403,1982,Morgan," Plus 8
 
 ",65000,gas,14500,manual,clean
-404,1992,"volvo 240
+404,1992,volvo," 240
 
 ",2800,gas,294751,automatic,clean
-405,1998,"ford f-150
+405,1998,ford," f-150
 
 ",2500,gas,247881,automatic,salvage
-406,1998,"toyota tacoma
+406,1998,toyota," tacoma
 
 ",3500,gas,255000,manual,clean
-407,1999,"jeep wangler
+407,1999,jeep," wangler
 
 ",7300,gas,189800,manual,clean
-408,2000,"honda accord
+408,2000,honda," accord
 
 ",800,gas,279077,automatic,clean
-409,2002,"toyota sequoia sr5
+409,2002,toyota," sequoia sr5
 
 ",4800,gas,218000,automatic,clean
-410,2006,"lincoln town car
+410,2006,lincoln," town car
 
 ",8800,gas,96540,automatic,clean
-411,2007,"Saab 9-3 Aero Convertible
+411,2007,Saab," 9-3 Aero Convertible
 
 ",7900,gas,189000,automatic,clean
-412,2009,"Huyndai Tucson
+412,2009,Huyndai," Tucson
 
 ",4500,gas,150186,manual,clean
-413,2009,"mini cooper
+413,2009,mini," cooper
 
 ",5999,gas,114500,manual,clean
-414,2009,"nissan maxima
+414,2009,nissan," maxima
 
 ",4200,gas,174816,automatic,salvage
-415,2011,"ford f150 supercrew
+415,2011,ford," f150 supercrew
 
 ",25000,gas,107500,automatic,clean
-416,2014,"chevrolet silverado lt
+416,2014,chevrolet," silverado lt
 
 ",21500,gas,119000,automatic,clean
-417,2014,"hyundai santa fe sport
+417,2014,hyundai," santa fe sport
 
 ",16550,gas,59080,automatic,clean
-418,2014,"Jeep Grand Cherokee Overland 4x4
+418,2014,Jeep," Grand Cherokee Overland 4x4
 
 ",22000,gas,100300,automatic,clean
-419,2015,"Cadillac SRX
+419,2015,Cadillac," SRX
 
 ",32300,gas,36610,automatic,clean
-420,2016,"GMC Sierra 2500HD Denali
+420,2016,GMC," Sierra 2500HD Denali
 
 ",55000,gas,49200,automatic,clean
-421,2016,"Jeep Wrangler
+421,2016,Jeep," Wrangler
 
 ",31000,gas,42838,manual,clean
-422,2016,"mercedes benz c300
+422,2016,mercedes," benz c300
 
 ",16500,gas,117000,automatic,clean
-423,2017,"jeep wrangler unlimited
+423,2017,jeep," wrangler unlimited
 
 ",42000,gas,15850,automatic,clean
-424,2019,"2019 Volkswagen Tiguan SEL
+424,2019,2019," Volkswagen Tiguan SEL
 
 ",25500,gas,22500,automatic,lien
-425,1991,"Mazda 4x4
+425,1991,Mazda," 4x4
 
 ",2250,diesel,140000,automatic,clean
-426,1993,"ford e350 shuttle bus
+426,1993,ford," e350 shuttle bus
 
 ",6500,gas,104000,automatic,clean
-427,2006,"Audi 06 Quattro
+427,2006,Audi," 06 Quattro
 
 ",5000,gas,147792,automatic,clean
-428,2002,"thomas school bus
+428,2002,thomas," school bus
 
 ",10500,gas,73000,automatic,clean
-429,2000,"chevrolet s10 pickup
+429,2000,chevrolet," s10 pickup
 
 ",9000,gas,121000,automatic,clean
-430,1964,"1964
+430,1964,1964,"
 
 ",45,gas,100,automatic,clean
-431,2004,"Ford Thunderbird
+431,2004,Ford," Thunderbird
 
 ",29000,gas,13000,automatic,clean
-432,2007,"chevy silverado
+432,2007,chevy," silverado
 
 ",10900,gas,147000,automatic,clean
-433,1999,"ford f250 super duty xlt
+433,1999,ford," f250 super duty xlt
 
 ",20000,diesel,180000,manual,clean
-434,2013,"ford f-150 xlt
+434,2013,ford," f-150 xlt
 
 ",28500,gas,55000,automatic,clean
-435,1968,"chevy c10 truck
+435,1968,chevy," c10 truck
 
 ",24500,gas,1000,automatic,clean
-436,2001,"ford ranger xlt
+436,2001,ford," ranger xlt
 
 ",4200,gas,105500,automatic,clean
-437,2014,"hyundai tucson se sport utility
+437,2014,hyundai," tucson se sport utility
 
 ",14500,gas,94000,automatic,clean
-438,2020,"GMC Sierra 1500
+438,2020,GMC," Sierra 1500
 
 ",65000,gas,16700,automatic,clean
-439,1956,"Oldsmobile 88 4dr sdn
+439,1956,Oldsmobile," 88 4dr sdn
 
 ",16900,gas,49999,automatic,clean
-440,1984,"Ford Ranger
+440,1984,Ford," Ranger
 
 ",13500,gas,100000,manual,clean
-441,1984,"mercedes benz 300sd
+441,1984,mercedes," benz 300sd
 
 ",2000,diesel,244889,automatic,clean
-442,1989,"ford mustang coupe
+442,1989,ford," mustang coupe
 
 ",15500,gas,100000,manual,clean
-443,1989,"GMC
+443,1989,GMC,"
 
 ",11000,diesel,200000,automatic,clean
-444,1995,"Honda Del Sol Si
+444,1995,Honda," Del Sol Si
 
 ",5400,gas,336256,manual,clean
-445,1996,"GMC Jimmy
+445,1996,GMC," Jimmy
 
 ",1995,gas,228687,automatic,salvage
-446,1996,"1996 nissan pathfinder
+446,1996,1996," nissan pathfinder
 
 ",2500,gas,290000,automatic,clean
-447,1997,"jaguar xj6
+447,1997,jaguar," xj6
 
 ",4000,gas,111806,automatic,clean
-448,2001,"gmc sierra 2500hd
+448,2001,gmc," sierra 2500hd
 
 ",5500,gas,302000,automatic,clean
-449,2002,"Jeep Liberty Sport
+449,2002,Jeep," Liberty Sport
 
 ",2900,gas,172000,automatic,clean
-450,2004,"chevrolet tahoe
+450,2004,chevrolet," tahoe
 
 ",5250,gas,264000,automatic,clean
-451,2004,"honda pilot
+451,2004,honda," pilot
 
 ",3500,gas,249000,automatic,clean
-452,2004,"volkswagen touareg v6
+452,2004,volkswagen," touareg v6
 
 ",7500,gas,77400,automatic,salvage
-453,2005,"toyota camry
+453,2005,toyota," camry
 
 ",2200,gas,240000,automatic,clean
-454,2005,"volkswagen passat
+454,2005,volkswagen," passat
 
 ",4400,gas,157000,automatic,clean
-455,2007,"chrysler pacifica
+455,2007,chrysler," pacifica
 
 ",1500,gas,196385,automatic,clean
-456,2008,"ford crown victoria police
+456,2008,ford," crown victoria police
 
 ",3500,gas,156000,automatic,clean
-457,2009,"RAM 3500 HD
+457,2009,RAM," 3500 HD
 
 ",26500,diesel,135000,automatic,clean
-458,2010,"BMW 128i
+458,2010,BMW," 128i
 
 ",9300,gas,116511,automatic,salvage
-459,2010,"toyota tacoma 4x4
+459,2010,toyota," tacoma 4x4
 
 ",20900,gas,78000,automatic,rebuilt
-460,2012,"honda accord
+460,2012,honda," accord
 
 ",9600,gas,97000,automatic,salvage
-461,2012,"infiniti g37
+461,2012,infiniti," g37
 
 ",12500,gas,52000,automatic,rebuilt
-462,2013,"Dodge Dart
+462,2013,Dodge," Dart
 
 ",4000,gas,136000,manual,clean
-463,2014,"acura rdx
+463,2014,acura," rdx
 
 ",15500,gas,112000,automatic,clean
-464,2014,"HONDA CR-V EXL
+464,2014,HONDA," CR-V EXL
 
 ",15000,gas,137000,automatic,clean
-465,2014,"jeep wrangler unlimited sahara
+465,2014,jeep," wrangler unlimited sahara
 
 ",22500,gas,115000,automatic,rebuilt
-466,2015,"acura tlx 3.5l v6
+466,2015,acura," tlx 3.5l v6
 
 ",13500,gas,93000,automatic,salvage
-467,2015,"lexus rx 350
+467,2015,lexus," rx 350
 
 ",21500,gas,89000,automatic,rebuilt
-468,2016,"kia rio
+468,2016,kia," rio
 
 ",6700,gas,156000,automatic,clean
-469,2016,"lexus is200t
+469,2016,lexus," is200t
 
 ",17100,gas,92000,automatic,salvage
-470,2017,"dodge ram 1500
+470,2017,dodge," ram 1500
 
 ",21500,gas,57000,automatic,rebuilt
-471,2017,"ford focus se hatchback
+471,2017,ford," focus se hatchback
 
 ",7999,gas,32800,automatic,salvage
-472,2005,"2005 chevy corvette
+472,2005,2005," chevy corvette
 
 ",27900,gas,15202,automatic,clean
-473,2012,"2012 acura tl
+473,2012,2012," acura tl
 
 ",10200,gas,143000,automatic,salvage
-474,2020,"Camper
+474,2020,Camper,"
 
 ",19000,gas,62000,automatic,clean
-475,2010,"Chevrolet Tahoe z71
+475,2010,Chevrolet," Tahoe z71
 
 ",13500,gas,173150,automatic,clean
-476,2007,"toyota fj cruiser 4x4
+476,2007,toyota," fj cruiser 4x4
 
 ",19,gas,128000,automatic,rebuilt
-477,2008,"jeep wrangler unlimited
+477,2008,jeep," wrangler unlimited
 
 ",19500,gas,140000,automatic,clean
-478,1968,"1968
+478,1968,1968,"
 
 ",4000,gas,100000,automatic,clean
-479,2006,"ford explorer 2006
+479,2006,ford," explorer 2006
 
 ",5500,gas,111000,automatic,clean
-480,2013,"dodge dart sxt
+480,2013,dodge," dart sxt
 
 ",6200,gas,62000,automatic,salvage
-481,2013,"Honda Odyssey Toyota Sienna
+481,2013,Honda," Odyssey Toyota Sienna
 
 ",7900,gas,165000,automatic,clean
-482,2015,"Honda Odyssey Toyota Sienna
+482,2015,Honda," Odyssey Toyota Sienna
 
 ",11900,gas,103000,automatic,clean
-483,2004,"toyota camry le 4dr sedan
+483,2004,toyota," camry le 4dr sedan
 
 ",3900,gas,244000,automatic,clean
-484,2006,"jeep liberty
+484,2006,jeep," liberty
 
 ",6300,gas,170926,automatic,clean
-485,2012,"hyundai sonata
+485,2012,hyundai," sonata
 
 ",8000,gas,171000,automatic,clean
-486,2000,"Cava S926
+486,2000,Cava," S926
 
 ",60000,gas,0,other,clean
-487,2004,"2004 Mustang GT
+487,2004,2004," Mustang GT
 
 ",6900,gas,116400,manual,clean
-488,2011,"honda element lx
+488,2011,honda," element lx
 
 ",10500,gas,132000,automatic,clean
-489,2005,"honda crv lx
+489,2005,honda," crv lx
 
 ",4995,gas,250000,automatic,clean
-490,2008,"Ford e-250
+490,2008,Ford," e-250
 
 ",2000,gas,240000,automatic,clean
-491,2007,"chrysler crossfire coupe
+491,2007,chrysler," crossfire coupe
 
 ",14500,gas,20562,automatic,clean
-492,2007,"buick lucerne
+492,2007,buick," lucerne
 
 ",8000,gas,100600,automatic,clean
-493,1988,"toyota pickup
+493,1988,toyota," pickup
 
 ",6000,gas,147172,manual,clean
-494,2016,"toyota  tacoma
+494,2016,toyota,"  tacoma
 
 ",18800,gas,78580,automatic,rebuilt
-495,2012,"ford f250 super duty
+495,2012,ford," f250 super duty
 
 ",40000,diesel,39000,automatic,clean
-496,2006,"2006 Dodge Dakota
+496,2006,2006," Dodge Dakota
 
 ",5875,gas,174000,automatic,clean
-497,2010,"ford f150 4x4
+497,2010,ford," f150 4x4
 
 ",13900,gas,172000,automatic,clean
-498,1930,"1930 Model A Ford Tudor
+498,1930,1930," Model A Ford Tudor
 
 ",15000,gas,50000,manual,clean
-499,2007,"Subaru Forester
+499,2007,Subaru," Forester
 
 ",5200,gas,159300,automatic,clean
-500,2014,"mini cooper countryman s
+500,2014,mini," cooper countryman s
 
 ",18400,gas,12798,automatic,clean
-501,2020,"cadillac escalade
+501,2020,cadillac," escalade
 
 ",63500,gas,11500,automatic,salvage
-502,2016,"Ram 1500
+502,2016,Ram," 1500
 
 ",19500,gas,141240,automatic,clean
-503,1997,"jaguar xk8 convertible
+503,1997,jaguar," xk8 convertible
 
 ",5700,gas,144700,automatic,clean
-504,2000,"ford taurus se
+504,2000,ford," taurus se
 
 ",3450,gas,123400,automatic,clean
-505,2000,"bmw 323i
+505,2000,bmw," 323i
 
 ",4800,gas,127122,automatic,clean
-506,2017,"ram 2500
+506,2017,ram," 2500
 
 ",66900,diesel,21000,automatic,clean
-507,1994,"jeep cherokee sport
+507,1994,jeep," cherokee sport
 
 ",4500,gas,185000,automatic,lien
-508,2000,"ford ranger
+508,2000,ford," ranger
 
 ",3700,gas,270000,automatic,clean
-509,2002,"Chevy blazer
+509,2002,Chevy," blazer
 
 ",1000,gas,260000,automatic,clean
-510,1980,"1980 malbu
+510,1980,1980," malbu
 
 ",1700,gas,64000,automatic,clean
-511,1995,"toyota camry
+511,1995,toyota," camry
 
 ",700,gas,1000,manual,clean
-512,2006,"GMC
+512,2006,GMC,"
 
 ",5900,gas,230000,automatic,clean
-513,2006,"GMC
+513,2006,GMC,"
 
 ",5200,gas,230000,automatic,clean
-514,2008,"chevrolet trailblazer
+514,2008,chevrolet," trailblazer
 
 ",4000,gas,171000,automatic,clean
-515,2008,"Mercury mariner
+515,2008,Mercury," mariner
 
 ",4300,hybrid,139000,other,salvage
-516,2008,"Mercury mariner
+516,2008,Mercury," mariner
 
 ",3950,hybrid,139000,other,salvage
-517,1999,"ford e150 econoline
+517,1999,ford," e150 econoline
 
 ",3300,gas,220000,automatic,clean
-518,1989,"Gmc s 15
+518,1989,Gmc," s 15
 
 ",1500,gas,168000,automatic,clean
