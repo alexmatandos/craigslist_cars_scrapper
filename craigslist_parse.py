@@ -25,10 +25,6 @@ for file in glob.glob("car_html_files/*.html"):
 	model = attrgroups[0].text.replace('\n', '').replace('\r','')
 	car_age = datetime.now().year - int(model[0:5])
 	
-	#print(model[0:5])
-	#print(datetime.now().year)
-	#print(car_age)
-	
 	result_list['model'] = model
 	result_list['price'] = price
 	result_list['car age'] = car_age
@@ -45,7 +41,7 @@ for file in glob.glob("car_html_files/*.html"):
 
 	if result_list:
 		df = df.append(result_list, ignore_index = True)
-
+		df = df.drop_duplicates()
 df.to_csv("parsed_files/craigslist_cars.csv")
 
 
