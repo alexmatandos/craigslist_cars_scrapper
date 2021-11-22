@@ -19,8 +19,7 @@ for file in glob.glob("car_html_files/*.html"):
 	if prices == None:
 		price = ""
 	else:
-		price = prices.text.replace("$", "").replace(",", "")
-	result_list['price'] = price		
+		price = prices.text.replace("$", "").replace(",", "")	
 	
 	attrgroups = soup.find_all("p", {"class" : "attrgroup"})
 	info = attrgroups[0].text.replace('\n', '').replace('\r','').upper()
